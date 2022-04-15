@@ -1,0 +1,9 @@
+{
+    "name": "exercise_github",
+    "version": "1.0.1",
+    "description": "githug basic modeling",
+    "main": "main.js",
+    "type": "module",
+    "author": "",
+    "license": "ISC"
+}
