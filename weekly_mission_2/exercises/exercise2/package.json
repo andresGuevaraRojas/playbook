@@ -1,0 +1,9 @@
+{
+    "name": "exercise_2",
+    "version": "1.0.0",
+    "description": "Practica con estructuras de control",
+    "main": "main.js",
+    "type": "module",
+    "author": "",
+    "license": "ISC"
+}
