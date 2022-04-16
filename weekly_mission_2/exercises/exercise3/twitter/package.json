@@ -1,0 +1,9 @@
+{
+    "name": "exercise_twitter",
+    "version": "1.0.1",
+    "description": "Basic twittwe modeling",
+    "main": "main.js",
+    "type": "module",
+    "author": "",
+    "license": "ISC"
+}
